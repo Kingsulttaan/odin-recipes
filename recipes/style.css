@@ -1,0 +1,16 @@
+h1{
+              background-color: green;
+              color: aqua;
+
+}
+p{
+              align-items: center;
+}
+h2{
+              color: red;
+              font-weight: bold;
+              font-family: 'Courier New', Courier, monospace;
+}
+li{
+              color: purple;
+}
